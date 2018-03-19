@@ -15,7 +15,7 @@ export default class UserList extends React.Component {
             .getData()
             .then(myUsers => {
                 console.log(myUsers);
-                this.setState({users: myUsers})
+                this.setState({ users: myUsers })
             })
 
     }

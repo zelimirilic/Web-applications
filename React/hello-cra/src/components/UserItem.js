@@ -1,6 +1,6 @@
 import React from 'react';
 
-const UserItem=  (props) => {
+const UserItem = (props) => {
     const { user } = props;
     const { name, email, dob, picture } = user;
     const { title, first, last } = name;
