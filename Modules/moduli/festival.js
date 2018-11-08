@@ -21,6 +21,6 @@ Festival.prototype.getDataFestival = function () {
     final = firstFinal + result;
     return final;
 }
-module.exports={
+module.exports = {
     Festival
 }

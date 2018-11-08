@@ -1,0 +1,17 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#timer {
+    height: 20px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
